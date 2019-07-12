@@ -117,8 +117,13 @@
               "devServerTarget": "ng-gh-page:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "ngx-gh:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "ng-gh-page"
 }

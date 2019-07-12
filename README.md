@@ -1,5 +1,9 @@
 # NgGhPage
 
+```sh
+ng run ng-gh-page:deploy --baseHref /ng-gh-page/ --deployUrl https://msakamaki.github.io/ng-gh-page/
+```
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
 ## Development server
